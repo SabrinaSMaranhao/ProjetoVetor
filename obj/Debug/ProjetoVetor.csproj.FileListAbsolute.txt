@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\ProjetoVetor\bin\Debug\ProjetoVetor.exe.config
+C:\Users\Tecnico\source\repos\ProjetoVetor\bin\Debug\ProjetoVetor.exe
+C:\Users\Tecnico\source\repos\ProjetoVetor\bin\Debug\ProjetoVetor.pdb
+C:\Users\Tecnico\source\repos\ProjetoVetor\obj\Debug\ProjetoVetor.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\ProjetoVetor\obj\Debug\ProjetoVetor.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\ProjetoVetor\obj\Debug\ProjetoVetor.exe
+C:\Users\Tecnico\source\repos\ProjetoVetor\obj\Debug\ProjetoVetor.pdb
