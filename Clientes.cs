@@ -12,9 +12,12 @@ namespace ProjetoVetor
         public string Nome { get; set; }
         public bool ClientesPrioritarios { get; set; }
         public string Email;
-        protected string CPF;
+        public int Idade;
+        protected string CPF { get; set; }
         private string Senha;
-        Clientes[] user = new Clientes[10];
+
+        public void DefinirSenha(string senha) => Senha = senha;
+        public void DefinirCPF(string cpf) => CPF = cpf;
 
 
         public void cadastrar()
@@ -22,6 +25,9 @@ namespace ProjetoVetor
            
             Console.WriteLine(" Digite seu nome:");
             this.Nome = Console.ReadLine();
+
+            Console.WriteLine("Digite sua idade:");
+            this.Idade = int.Parse(Console.ReadLine());
 
             Console.WriteLine(" Digite seu Email:");
             this.Email = Console.ReadLine();
@@ -31,6 +37,8 @@ namespace ProjetoVetor
 
             Console.WriteLine(" Digite uma senha:");
             this.Senha = Console.ReadLine();
+
+            Console.WriteLine("Cadastro Realizado!");
         }
         
         

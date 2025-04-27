@@ -5,3 +5,10 @@ C:\Users\Tecnico\source\repos\ProjetoVetor\obj\Debug\ProjetoVetor.csproj.Assembl
 C:\Users\Tecnico\source\repos\ProjetoVetor\obj\Debug\ProjetoVetor.csproj.CoreCompileInputs.cache
 C:\Users\Tecnico\source\repos\ProjetoVetor\obj\Debug\ProjetoVetor.exe
 C:\Users\Tecnico\source\repos\ProjetoVetor\obj\Debug\ProjetoVetor.pdb
+C:\Users\Sabrina\Source\Repos\ProjetoVetor\bin\Debug\ProjetoVetor.exe.config
+C:\Users\Sabrina\Source\Repos\ProjetoVetor\bin\Debug\ProjetoVetor.exe
+C:\Users\Sabrina\Source\Repos\ProjetoVetor\bin\Debug\ProjetoVetor.pdb
+C:\Users\Sabrina\Source\Repos\ProjetoVetor\obj\Debug\ProjetoVetor.csproj.AssemblyReference.cache
+C:\Users\Sabrina\Source\Repos\ProjetoVetor\obj\Debug\ProjetoVetor.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Source\Repos\ProjetoVetor\obj\Debug\ProjetoVetor.exe
+C:\Users\Sabrina\Source\Repos\ProjetoVetor\obj\Debug\ProjetoVetor.pdb

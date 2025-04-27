@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tecnico\\source\\repos\\ProjetoVetor\\",
+  "WorkspaceRootPath": "C:\\Users\\Sabrina\\source\\repos\\ProjetoVetor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|c:\\users\\tecnico\\source\\repos\\projetovetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|c:\\users\\sabrina\\source\\repos\\projetovetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|c:\\users\\tecnico\\source\\repos\\projetovetor\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|solutionrelative:fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|C:\\Users\\Sabrina\\source\\repos\\ProjetoVetor\\Fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|solutionrelative:Fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|c:\\users\\tecnico\\source\\repos\\projetovetor\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|solutionrelative:clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|C:\\Users\\Sabrina\\source\\repos\\ProjetoVetor\\Clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F34317-2250-4485-B4AE-BDF7CF57F673}|ProjetoVetor.csproj|solutionrelative:Clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Fila.cs",
-              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\ProjetoVetor\\Fila.cs",
+              "DocumentMoniker": "C:\\Users\\Sabrina\\source\\repos\\ProjetoVetor\\Fila.cs",
               "RelativeDocumentMoniker": "Fila.cs",
-              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\ProjetoVetor\\Fila.cs",
+              "ToolTip": "C:\\Users\\Sabrina\\source\\repos\\ProjetoVetor\\Fila.cs",
               "RelativeToolTip": "Fila.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T00:06:21.706Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Clientes.cs",
-              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\ProjetoVetor\\Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\Sabrina\\source\\repos\\ProjetoVetor\\Clientes.cs",
               "RelativeDocumentMoniker": "Clientes.cs",
-              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\ProjetoVetor\\Clientes.cs",
+              "ToolTip": "C:\\Users\\Sabrina\\source\\repos\\ProjetoVetor\\Clientes.cs",
               "RelativeToolTip": "Clientes.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwBMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T22:55:58.833Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\ProjetoVetor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sabrina\\source\\repos\\ProjetoVetor\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\ProjetoVetor\\Program.cs*",
+              "ToolTip": "C:\\Users\\Sabrina\\source\\repos\\ProjetoVetor\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T22:51:04.026Z",
               "EditorCaption": ""
