@@ -22,7 +22,7 @@ namespace ProjetoVetor
 
         public void cadastrar()
         {
-           
+           \\Lista de perguntas para usuário
             Console.WriteLine(" Digite seu nome:");
             this.Nome = Console.ReadLine();
 
