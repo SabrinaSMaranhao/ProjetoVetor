@@ -19,7 +19,7 @@ namespace ProjetoVetor
 
             Fila filaBanco = new Fila();
 
-            while (true)
+            while (true) //laço infinito pra manter o menu
             {
                 Console.WriteLine("\n===== MENU ===");
                 Console.WriteLine("1. Cadastrar cliente");
@@ -27,9 +27,9 @@ namespace ProjetoVetor
                 Console.WriteLine("3. Atender próximo cliente");
                 Console.WriteLine("Digite 'q' para sair");
                 Console.Write("Opção:\n");
-                string opcao = Console.ReadLine();
+                string opcao = Console.ReadLine(); //lê a opçao que o usuario digitou
 
-                if (opcao.ToLower() == "q")
+                if (opcao.ToLower() == "q") //ToLower converte a letra pra minuscula, mesmo que o usuario digite maiuscula
                     break;
 
                 switch (opcao)

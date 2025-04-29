@@ -9,25 +9,25 @@ namespace ProjetoVetor
 {
     internal class Clientes
     {
-        public string Nome { get; set; }
+        public string Nome { get; set; } //get e set são usados para acessar e modificar os valores
         public bool ClientesPrioritarios { get; set; }
         public string Email;
         public int Idade;
         protected string CPF { get; set; }
         private string Senha;
 
-        public void DefinirSenha(string senha) => Senha = senha;
+        public void DefinirSenha(string senha) => Senha = senha; //método
         public void DefinirCPF(string cpf) => CPF = cpf;
 
 
         public void cadastrar()
         {
-           \\Lista de perguntas para usuário
+           
             Console.WriteLine(" Digite seu nome:");
             this.Nome = Console.ReadLine();
 
             Console.WriteLine("Digite sua idade:");
-            this.Idade = int.Parse(Console.ReadLine());
+            this.Idade = int.Parse(Console.ReadLine()); //int.Parse converte uma string em numero inteiro
 
             Console.WriteLine(" Digite seu Email:");
             this.Email = Console.ReadLine();
