@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 namespace ProjetoVetor
 {
     internal class Program
-    {
-       public Clientes[] Fila = new Clientes[10];
-    
+    {   /* um vetor de objetos 'Clientes' com capacidade para armazenar até 10 clientes.
+         A variável 'Fila' representa a fila, onde os clientes serão armazenados e organizados. */
+        public Clientes[] Fila = new Clientes[10];
+
         static void Main(string[] args)
         {
 
@@ -27,12 +28,12 @@ namespace ProjetoVetor
                 Console.WriteLine("3. Atender próximo cliente");
                 Console.WriteLine("Digite 'q' para sair");
                 Console.Write("Opção:\n");
-                string opcao = Console.ReadLine(); //lê a opçao que o usuario digitou
+                string opcao = Console.ReadLine(); //lê a opçao que o usuario digitou e armazena na variavel Opcao
 
                 if (opcao.ToLower() == "q") //ToLower converte a letra pra minuscula, mesmo que o usuario digite maiuscula
                     break;
 
-                switch (opcao)
+                switch (opcao) //switch para executar diferentes ações dependendo da opção escolhida pelo usuário
                 {
                     case "1":
                         Clientes novoCliente = new Clientes();
@@ -52,11 +53,13 @@ namespace ProjetoVetor
                         Console.Write("Senha: ");
                         novoCliente.DefinirSenha(Console.ReadLine());
 
+                        // Pergunta se o cliente é prioritário. Se a resposta for "S", define 'ClientesPrioritarios' como true
                         Console.Write("É prioritário? (S/N): ");
                         
                         string prioridade = Console.ReadLine();
                         novoCliente.ClientesPrioritarios = prioridade.ToUpper() == "S";
 
+                        // Chama o método 'InserirNaFila' para adicionar o cliente na fila
                         filaBanco.InserirNaFila(novoCliente);
                         break;
 
@@ -68,13 +71,17 @@ namespace ProjetoVetor
                         filaBanco.AtenderCliente();
                         break;
 
+                    case "q":
+                        Console.WriteLine("Encerrando sistema...");
+                        break;
+
                     default:
                         Console.WriteLine("Opção inválida.");
                         break;
                 }
             }
 
-            Console.WriteLine("Encerrando sistema...");
+            
         }
     }
 }
